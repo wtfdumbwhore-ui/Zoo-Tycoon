@@ -1,0 +1,1 @@
+Just FYI it will say virus detected as Trojan:Phonzy.B!ml. Its not a vvirus i swear on my life just click thhe alert select allow on device start actions and say yes it willl lett you download it now.
